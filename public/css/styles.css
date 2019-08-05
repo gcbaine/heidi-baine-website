@@ -1,0 +1,44 @@
+body {
+  font-family: 'Gentium Book Basic', serif;
+  color: #1c1c1c;
+  letter-spacing: .1rem
+}
+
+nav {
+  background: linear-gradient(rgb(254, 253, 252) 30%, rgba(254, 253, 252, .8) 70%, transparent 90%);
+}
+
+.carousel-item {
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+  }
+  .carousel-item img {
+  width: 100%;
+  }
+
+.img {
+  width: 100%;
+}
+
+.philosophy {
+  color: #1c1c1c;
+}
+
+.philP {
+  text-indent: 2em;
+}
+
+.blurb {
+  text-align: justify;
+}
+
+.slideImage {
+  max-height: 100%
+}
+/* 
+.iSAndP {
+  background-image: url('../img/banner.jpg');
+  background-position-y: center;
+  background-size: 100%;
+} */
